@@ -1,0 +1,16 @@
+main{
+    display: flex;
+    width: 100%;
+}
+
+article{
+    border: 1px solid red;
+    width: 70%;
+    height: 800px;
+}
+
+aside{
+    border: 1px solid red;
+    width: 30%;
+    height: 800px;
+}
